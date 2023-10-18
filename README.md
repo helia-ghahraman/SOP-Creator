@@ -55,6 +55,6 @@ Before running this project, ensure you have the following:
 To replicate the project, you can download the universities dataset from the provided files uploaded in this repository.
 
 ## Authors
-Mehrnaz Sadeghieh, Helia Ghahraman
+Helia Ghahraman, Mehrnaz Sadeghieh
 
 Thank you for exploring our University SOP Generator project. We hope this tool assists you in generating Statements of Purpose for universities efficiently and effectively.

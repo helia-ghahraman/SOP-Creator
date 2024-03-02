@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of a Data Mining course, aiming to create Statements of Purpose (SOPs) for universities using a dataset of universities. The primary objectives of the project include data cleaning, keyword extraction, and generating SOPs. Due to constraints, the original plan of crawling websites for SOPs was abandoned in favor of utilizing OpenAI's GPT-3 with the assistance of an OpenAI API key.
+This project is aiming to create Statements of Purpose (SOPs) for universities using a dataset of universities. The primary objectives of the project include data cleaning, keyword extraction, and generating SOPs utilizing OpenAI's GPT-3 with the assistance of an OpenAI API key.
 
 ## Project Description
 

@@ -2,21 +2,21 @@
 
 ## Overview
 
-This project is aiming to create Statements of Purpose (SOPs) for universities using a dataset of universities. The primary objectives of the project include data cleaning, keyword extraction, and generating SOPs utilizing OpenAI's GPT-3 with the assistance of an OpenAI API key.
+This project aims to create Statements of Purpose (SOPs) for universities using a dataset of universities. The primary objectives of the project include data cleaning, keyword extraction, and generating SOPs utilizing OpenAI's GPT-3 with the assistance of an OpenAI API key.
 
 ## Project Description
 
-The University SOP Generator project encompasses the following key components:
+The **University SOP Generator** project encompasses the following key components:
 
-1. Data Cleaning: The initial dataset of universities requires cleaning to ensure data quality and consistency.
+1. **Data Cleaning:** The initial dataset of universities requires cleaning to ensure data quality and consistency.
 
-2. Keyword Extraction: Extract relevant keywords from the dataset to be used in the SOPs.
+2. **Keyword Extraction:** Extract relevant keywords from the dataset to be used in the SOPs.
 
-3. SOP Generation: Utilize OpenAI's GPT-3 and an OpenAI API key to generate Statements of Purpose for universities based on the extracted keywords.
+3. **SOP Generation:** Utilize OpenAI's GPT-3 and an OpenAI API key to generate Statements of Purpose for universities based on the extracted keywords.
 
-4. Website Crawling (Unused): Although the main.py file contains code for website crawling using Selenium, this feature was not implemented in the main notebook code due to limitations and cost factors.
+4. **Website Crawling (Unused):** Although the `main.py` file contains code for website crawling using Selenium, this feature was not implemented in the main notebook code due to limitations and cost factors.
 
-5. Word Cloud Visualization: Generate word clouds to visualize the most frequent keywords extracted from the dataset.
+5. **Word Cloud Visualization:** Generate word clouds to visualize the most frequent keywords extracted from the dataset.
 
 ## Prerequisites
 
@@ -34,6 +34,7 @@ Before running this project, ensure you have the following:
 
    ```bash
    pip install -r requirements.txt
+
 
 3. Configure your OpenAI API key by following the provided instructions.
 
